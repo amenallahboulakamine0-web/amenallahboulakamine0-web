@@ -32,4 +32,4 @@ Check out my repositories here: [My Projects](https://github.com/amenallahboulak
 ---
 
 ## ⚡ Fun Fact
-I love building projects and solving problems while learning new technologies!  
+I love building projects and solving problems while learning new technologies since i was a kid and im always ready for new challenges
